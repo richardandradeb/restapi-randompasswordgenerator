@@ -1,0 +1,16 @@
+{
+    "name": "richard/random-password-generator-api",
+    "description": "random password generator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Richard\\RandomPasswordGeneratorApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "richard de andrade"
+        }
+    ],
+    "require": {}
+}
