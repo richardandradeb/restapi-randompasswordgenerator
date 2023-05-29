@@ -13,4 +13,7 @@ Of course if you don't want to define any param, the API will use the standard d
 Length = 8
 Keyspace = 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 ```
-After making a GET request to the API, it will return a JSON as follows the example: { "password": "KTQeP5lB", "error": "false" }
+After making a GET request to the API, it will return a JSON as follows the example:
+```
+{ "password": "KTQeP5lB", "error": "false" }
+```
